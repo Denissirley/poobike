@@ -12,6 +12,7 @@ public class Aplicacion {
 		
 		System.out.println(bici.color);
 		System.out.println(bici.serial);
+		System.out.println("prueba");
 		
 		bici.modificarCadencia(80);
 		bici.modificarCambio(5);
